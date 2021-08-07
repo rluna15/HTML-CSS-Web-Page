@@ -4,11 +4,11 @@ Short description of the project
 
 ## Table of Contents
 1.[Home Page](#home)
-2.[2D Page]
-3.[3D Page]
-4.[Resources Page]
-5.[Tools Page]
-6.[Contact Page]
+2.[2D Page](#2D)
+3.[3D Page](#3D)
+4.[Resources Page](#resources)
+5.[Tools Page](#tools)
+6.[Contact Page](#contact)
 ![Design Source Home](https://user-images.githubusercontent.com/58538880/128608831-98151490-6ded-4af3-afe6-2b6fc206325a.png)
 ![Design Source 2D](https://user-images.githubusercontent.com/58538880/128609824-81782f7d-a383-49ad-97f2-e6a77220f063.png)
 ![Design Source 3D](https://user-images.githubusercontent.com/58538880/128609843-fba52af8-0065-4f4c-aa6a-f2112ca2c09a.png)
