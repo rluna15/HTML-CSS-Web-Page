@@ -16,7 +16,7 @@ Short description of the project
 ![Design Source 2D](https://user-images.githubusercontent.com/58538880/128609824-81782f7d-a383-49ad-97f2-e6a77220f063.png)
 ## 3D Page
 ![Design Source 3D](https://user-images.githubusercontent.com/58538880/128609843-fba52af8-0065-4f4c-aa6a-f2112ca2c09a.png)
-## Resources
+## Resources Page
 ![Design Source Resources](https://user-images.githubusercontent.com/58538880/128610687-ac797374-eede-4273-88a7-1bbd42caed61.png)
 ## Tools Page
 ![Design Source Tools](https://user-images.githubusercontent.com/58538880/128610033-e3f74d62-789f-4dd3-897a-4ae8688a9cae.png)
