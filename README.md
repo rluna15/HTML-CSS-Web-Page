@@ -1,6 +1,6 @@
 # HTML-CSS-Web-Page
 ***
-Short description of the project
+This website was a class project for my very first web development course. The main requirement for this project was to create a basic website with serveral pages with a navigation bar. As well as use a varaity of element such as tables, iframes, and images.
 
 ## Table of Contents
 1. [Home Page](#home-page)
