@@ -3,12 +3,12 @@
 Short description of the project
 
 ## Table of Contents
-1. [Home Page](#home)
-2. [2D Page](#2D)
-3. [3D Page](#3D)
-4. [Resources Page](#resources)
-5. [Tools Page](#tools)
-6. [Contact Page](#contact)
+1. [Home Page](#home-page)
+2. [2D Page](#2d-page)
+3. [3D Page](#3d-page)
+4. [Resources Page](#resources-page)
+5. [Tools Page](#tools-page)
+6. [Contact Page](#contact-page)
 ***
 ## Home Page
 ![Design Source Home](https://user-images.githubusercontent.com/58538880/128608831-98151490-6ded-4af3-afe6-2b6fc206325a.png)
